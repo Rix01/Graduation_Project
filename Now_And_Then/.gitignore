@@ -41,6 +41,3 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
-
-# API Key는 제외
-API/api/key.json
